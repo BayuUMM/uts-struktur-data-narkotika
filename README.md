@@ -1,4 +1,4 @@
-# UTS Struktur Data: Putusan Narkotika (Kelompok XX)
+# UTS Struktur Data: Putusan Narkotika Manokwari
 
 Aplikasi Java berorientasi objek untuk menyimpan dan mengolah 50 putusan pengadilan narkotika
 dengan struktur data yang dibuat dari nol (tanpa koleksi bawaan `java.util`).
@@ -7,9 +7,9 @@ dengan struktur data yang dibuat dari nol (tanpa koleksi bawaan `java.util`).
 | Nama | NIM | Bagian data |
 |---|---|---|
 | Bayu Febryan Palolongi | 202510370110154 | P001–P025 |
-| Yusuf (isi nama lengkap) | (isi NIM) | P026–P050 |
+| Muhammad Yusuf Jatiwibowo | 202510370110123 | P026–P050 |
 
-Mata kuliah: Struktur Data | Dosen: Galih W. Wicaksono | Semester 3, Kelas B/D
+Mata kuliah: Struktur Data | Dosen: Galih W. Wicaksono | Semester 3, Kelas B
 
 ## Struktur Data yang Dipilih
 - Struktur utama: **(isi: array dinamis / singly linked list / stack / queue)**
