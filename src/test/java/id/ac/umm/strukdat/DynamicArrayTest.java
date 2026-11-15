@@ -114,4 +114,46 @@ class DynamicArrayTest {
                 () -> array.get(0)
         );
     }
+    @Test
+    void testAddNull() {
+        DynamicArray<String> array = new DynamicArray<>();
+
+        assertThrows(
+                IllegalArgumentException.class,
+                () -> array.add(null)
+        );
+
+        assertTrue(array.isEmpty());
+        assertTrue(array.validateInvariant());
+    }
+
+    @Test
+    void testInsertNull() {
+        DynamicArray<String> array = new DynamicArray<>();
+
+        array.add("Bayu");
+
+        assertThrows(
+                IllegalArgumentException.class,
+                () -> array.insert(0, null)
+        );
+
+        assertEquals(1, array.size());
+        assertTrue(array.validateInvariant());
+    }
+
+    @Test
+    void testSetNull() {
+        DynamicArray<String> array = new DynamicArray<>();
+
+        array.add("Bayu");
+
+        assertThrows(
+                IllegalArgumentException.class,
+                () -> array.set(0, null)
+        );
+
+        assertEquals("Bayu", array.get(0));
+        assertTrue(array.validateInvariant());
+    }
 }
