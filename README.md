@@ -48,5 +48,5 @@ CONTRIBUTIONS.md          kontribusi tiap anggota
 ```
 
 ## Dataset
-50 putusan, nama terdakwa dianonimkan dengan kode. Nilai yang tidak ditemukan ditulis `0` (angka) atau `null` (teks/tanggal).
+50 putusan, nama terdakwa dianonimkan dengan kode. Nilai yang tidak ditemukan ditulis `0` (Angka) atau `null` (teks/tanggal).
 Aturan pengisian dan agregasi: lihat tab `aturan` pada template dataset.
