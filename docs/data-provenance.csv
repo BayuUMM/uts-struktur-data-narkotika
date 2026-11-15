@@ -1,0 +1,451 @@
+case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+P001,nomorPerkara,285/Pid.Sus/2025/PN Mnk,putusan_P001.pdf,1,Bayu,Yusuf,extracted
+P001,tanggalPutusan,2026-03-11,putusan_P001.pdf,29,Bayu,Yusuf,extracted
+P001,jenisNarkotika,sabu,putusan_P001.pdf,3;6;9,Bayu,Yusuf,extracted
+P001,beratBarangBuktiGram,24.26,putusan_P001.pdf,3;6;9,Bayu,Yusuf,extracted
+P001,pasalDakwaan,Primair Pasal 114 ayat (2) jo 55 ayat (1) ke-1 KUHP; Subsidair Pasal 112 ayat (2) jo 55 ayat (1) ke-1 KUHP,putusan_P001.pdf,3;6;9,Bayu,Yusuf,extracted
+P001,pasalTerbukti,Pasal 114 ayat (2) UU 35/2009 jo Pasal 20 huruf c UU 1/2023,putusan_P001.pdf,27-28,Bayu,Yusuf,extracted
+P001,tuntutanBulan,108,putusan_P001.pdf,2,Bayu,Yusuf,extracted
+P001,vonisBulan,96,putusan_P001.pdf,28,Bayu,Yusuf,extracted
+P001,dendaRupiah,510000000,putusan_P001.pdf,28,Bayu,Yusuf,extracted
+P002,nomorPerkara,284/Pid.Sus/2025/PN Mnk,putusan_P002.pdf,1,Bayu,Yusuf,extracted
+P002,tanggalPutusan,2026-03-11,putusan_P002.pdf,35,Bayu,Yusuf,extracted
+P002,jenisNarkotika,sabu,putusan_P002.pdf,3;7;10,Bayu,Yusuf,extracted
+P002,beratBarangBuktiGram,24.26,putusan_P002.pdf,3;7;10,Bayu,Yusuf,extracted
+P002,pasalDakwaan,Primair 114 ayat (2) jo 55 ayat (1) ke-1; Subsidair 112 ayat (2) jo 55 ayat (1) ke-1,putusan_P002.pdf,3;7;10,Bayu,Yusuf,extracted
+P002,pasalTerbukti,114 ayat (2) UU 35/2009 jo 20 huruf c UU 1/2023,putusan_P002.pdf,32;34,Bayu,Yusuf,extracted
+P002,tuntutanBulan,72,putusan_P002.pdf,2-3,Bayu,Yusuf,extracted
+P002,vonisBulan,84,putusan_P002.pdf,34,Bayu,Yusuf,extracted
+P002,dendaRupiah,510000000,putusan_P002.pdf,34,Bayu,Yusuf,extracted
+P003,nomorPerkara,277/Pid.Sus/2025/PN Mnk,putusan_P003.pdf,1,Bayu,Yusuf,extracted
+P003,tanggalPutusan,2026-03-16,putusan_P003.pdf,35,Bayu,Yusuf,extracted
+P003,jenisNarkotika,tembakau sintetis,putusan_P003.pdf,3;5;7,Bayu,Yusuf,extracted
+P003,beratBarangBuktiGram,2.17,putusan_P003.pdf,3;5;7,Bayu,Yusuf,extracted
+P003,pasalDakwaan,Pasal 114 Ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009;Pasal 112 Ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009,putusan_P003.pdf,3;5;7,Bayu,Yusuf,extracted
+P003,pasalTerbukti,Pasal 114 ayat (1) Undang-undang nomor 35 Tahun 2009 tentang Narkotika dan Undang-undang Nomor 20 Tahun 2025,putusan_P003.pdf,32-33,Bayu,Yusuf,extracted
+P003,tuntutanBulan,120,putusan_P003.pdf,2-3,Bayu,Yusuf,extracted
+P003,vonisBulan,84,putusan_P003.pdf,34,Bayu,Yusuf,extracted
+P003,dendaRupiah,1000000000,putusan_P003.pdf,34,Bayu,Yusuf,extracted
+P004,nomorPerkara,113/Pid.Sus/2019/PN MNK,putusan_P004.pdf,1,Bayu,Yusuf,extracted
+P004,tanggalPutusan,2019-09-05,putusan_P004.pdf,20,Bayu,Yusuf,extracted
+P004,jenisNarkotika,sabu,putusan_P004.pdf,3;5;7,Bayu,Yusuf,extracted
+P004,beratBarangBuktiGram,0.96,putusan_P004.pdf,3;5;7,Bayu,Yusuf,extracted
+P004,pasalDakwaan,Pasal 114 Ayat (1) Undang-Undang No.35 Tahun 2009 Tentang Narkotika sebagaimana telah di ubah dengan Lampiran II UU RI  No 1 Tahun 2026 tentang Penyesuaian Pidana jo Pasal 132 Ayat (1) Undang-Undang No.35 Tahun 2009 Tentang Narkotika;Pasal 111 Ayat (1) Undang-Undang No.35 Tahun 2009 Tentang Narkotika sebagaimana telah di ubah dengan Lampiran II UU RI No 1 Tahun 2026 tentang Penyesuaian Pidana jo Pasal 132 Ayat (1) Undang-Undang No.35 Tahun 2009 Tentang Narkotika,putusan_P004.pdf,3;5;7,Bayu,Yusuf,extracted
+P004,pasalTerbukti,Pasal 112 ayat (1) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika jo. Pasal 55 ayat (1) ke-1 ,putusan_P004.pdf,19,Bayu,Yusuf,extracted
+P004,tuntutanBulan,48,putusan_P004.pdf,2-3,Bayu,Yusuf,extracted
+P004,vonisBulan,50,putusan_P004.pdf,19,Bayu,Yusuf,extracted
+P004,dendaRupiah,800000000,putusan_P004.pdf,19,Bayu,Yusuf,extracted
+P005,nomorPerkara,274/Pid.Sus/2025/PN Mnk,putusan_P005.pdf,1,Bayu,Yusuf,extracted
+P005,tanggalPutusan,2026-03-03,putusan_P005.pdf,31,Bayu,Yusuf,extracted
+P005,jenisNarkotika,sabu,putusan_P005.pdf,3;8;12,Bayu,Yusuf,extracted
+P005,beratBarangBuktiGram,3.65,putusan_P005.pdf,3;8;12,Bayu,Yusuf,extracted
+P005,pasalDakwaan,Pasal 114 ayat (1) jo Pasal 132 ayat (1) Undang-Undang Republik Indonesia Nomor : 35 Tahun 2009;Pasal 127 Ayat (1) huruf a Undang-Undang Republik Indonesia Nomor : 35 Tahun 2009,putusan_P005.pdf,3;8;12,Bayu,Yusuf,extracted
+P005,pasalTerbukti,"Pasal 114 ayat (1) UU Nomor. 35 Tahun 2009 Tentang Narkotika, Undang undang Nomor 1 tahun 2026 tentang penyesuaian pidana dan Undang Undang Nomor 20 Tahun 2025",putusan_P005.pdf,28-29,Bayu,Yusuf,extracted
+P005,tuntutanBulan,24,putusan_P005.pdf,2-3,Bayu,Yusuf,extracted
+P005,vonisBulan,60,putusan_P005.pdf,30,Bayu,Yusuf,extracted
+P005,dendaRupiah,800000000,putusan_P005.pdf,30,Bayu,Yusuf,extracted
+P006,nomorPerkara,273/Pid.Sus/2025/PN Mnk,putusan_P006.pdf,1,Bayu,Yusuf,extracted
+P006,tanggalPutusan,2026-03-10,putusan_P006.pdf,32,Bayu,Yusuf,extracted
+P006,jenisNarkotika,ganja,putusan_P006.pdf,3;7-8,Bayu,Yusuf,extracted
+P006,beratBarangBuktiGram,200.54,putusan_P006.pdf,3;7-8,Bayu,Yusuf,extracted
+P006,pasalDakwaan,Pasal 114 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009;Pasal 111 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009,putusan_P006.pdf,3;7-8,Bayu,Yusuf,extracted
+P006,pasalTerbukti,"Pasal 114 ayat (1) Undang-Undang RI. No. 35 Tahun 2009 Tentang Narkotika, Undang-undang Nomor 20 Tahun 2025",putusan_P006.pdf,30-31,Bayu,Yusuf,extracted
+P006,tuntutanBulan,108,putusan_P006.pdf,2-3,Bayu,Yusuf,extracted
+P006,vonisBulan,84,putusan_P006.pdf,31,Bayu,Yusuf,extracted
+P006,dendaRupiah,510000000,putusan_P006.pdf,31,Bayu,Yusuf,extracted
+P007,nomorPerkara,260/Pid.Sus/2025/PN Mnk,putusan_P007.pdf,1,Bayu,Yusuf,extracted
+P007,tanggalPutusan,2026-03-11,putusan_P007.pdf,30,Bayu,Yusuf,extracted
+P007,jenisNarkotika,sabu,putusan_P007.pdf,3;6-7,Bayu,Yusuf,extracted
+P007,beratBarangBuktiGram,2.96,putusan_P007.pdf,3;6-7,Bayu,Yusuf,extracted
+P007,pasalDakwaan,Pasal 114 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009; Pasal 112 Ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009,putusan_P007.pdf,3;6-7,Bayu,Yusuf,extracted
+P007,pasalTerbukti,"Pasal Pasal 114 ayat (1) UU RI. No. 35 Tahun 2009 Tentang Narkotika, Undang-Undang  Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana , Unxang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana dan Undang-undang Nomor 20 Tahun 2025 tentang Hukum Acara Pidana",putusan_P007.pdf,28-29,Bayu,Yusuf,extracted
+P007,tuntutanBulan,120,putusan_P007.pdf,2-3,Bayu,Yusuf,extracted
+P007,vonisBulan,84,putusan_P007.pdf,29,Bayu,Yusuf,extracted
+P007,dendaRupiah,2000000000,putusan_P007.pdf,29,Bayu,Yusuf,extracted
+P008,nomorPerkara,259/Pid.Sus/2025/PN Mnk,putusan_P008.pdf,1,Bayu,Yusuf,extracted
+P008,tanggalPutusan,2026-03-11,putusan_P008.pdf,29,Bayu,Yusuf,extracted
+P008,jenisNarkotika,sabu,putusan_P008.pdf,3;7;9,Bayu,Yusuf,extracted
+P008,beratBarangBuktiGram,31.2,putusan_P008.pdf,3;7;9,Bayu,Yusuf,extracted
+P008,pasalDakwaan,Pasal 114 Ayat (1) UndangUndang Republik Indonesia Nomor 35 Tahun 2009; Pasal 112 Ayat (1) UndangUndang Republik Indonesia Nomor 35 Tahun 2009,putusan_P008.pdf,3;7;9,Bayu,Yusuf,extracted
+P008,pasalTerbukti,Pasal Pasal 114 ayat (2) UU RI. No. 35 Tahun 2009 Tentang Narkotika Jo. UU Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana Jo. UU Nomor 1 Tahun 2026 tentang Penyesuaian Pidana dan Undang-undang Nomor 20 Tahun 2025 tentang Hukum Acara Pidana,putusan_P008.pdf,27-28,Bayu,Yusuf,extracted
+P008,tuntutanBulan,120,putusan_P008.pdf,2-3,Bayu,Yusuf,extracted
+P008,vonisBulan,96,putusan_P008.pdf,28,Bayu,Yusuf,extracted
+P008,dendaRupiah,2000000000,putusan_P008.pdf,28,Bayu,Yusuf,extracted
+P009,nomorPerkara,258/Pid.Sus/2025/PN Mnk,putusan_P009.pdf,1,Bayu,Yusuf,extracted
+P009,tanggalPutusan,2026-02-19,putusan_P009.pdf,25,Bayu,Yusuf,extracted
+P009,jenisNarkotika,sabu,putusan_P009.pdf,3;7,Bayu,Yusuf,extracted
+P009,beratBarangBuktiGram,17.72,putusan_P009.pdf,3;7,Bayu,Yusuf,extracted
+P009,pasalDakwaan,Pasal 114 ayat (2) UU RI. No. 35 Tahun 2009; Pasal 112 ayat (2) UU RI. No. 35 Tahun 2009,putusan_P009.pdf,3;7,Bayu,Yusuf,extracted
+P009,pasalTerbukti,Pasal Pasal 114 ayat (2) UU RI. No. 35 Tahun 2009 Tentang Narkotika Jo. UU Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana Jo. UU Nomor 1 Tahun 2026 tentang Penyesuaian Pidana dan Undang-undang Nomor 20 Tahun 2025 tentang Hukum Acara Pidana,putusan_P009.pdf,23-24,Bayu,Yusuf,extracted
+P009,tuntutanBulan,96,putusan_P009.pdf,2-3,Bayu,Yusuf,extracted
+P009,vonisBulan,84,putusan_P009.pdf,24,Bayu,Yusuf,extracted
+P009,dendaRupiah,510000000,putusan_P009.pdf,24,Bayu,Yusuf,extracted
+P010,nomorPerkara,242/Pid.Sus/2025/PN Mnk,putusan_P010.pdf,1,Bayu,Yusuf,extracted
+P010,tanggalPutusan,2025-01-06,putusan_P010.pdf,18,Bayu,Yusuf,extracted
+P010,jenisNarkotika,ganja,putusan_P010.pdf,3;5,Bayu,Yusuf,extracted
+P010,beratBarangBuktiGram,64.26,putusan_P010.pdf,3;5,Bayu,Yusuf,extracted
+P010,pasalDakwaan,Pasal 114 ayat (1) UU RI. No. 35 Tahun 2009 Tentang Narkotika ;Pasal 111 ayat (1) UU RI. No. 35 Tahun 2009,putusan_P010.pdf,3;5,Bayu,Yusuf,extracted
+P010,pasalTerbukti,"Pasal 114 ayat (1) UU Nomor. 35 Tahun 2009 Tentang Narkotika,  Undang Undang Nomor 8 Tahun 1981 Tentang Hukum Acara Pidana (KUHAP)",putusan_P010.pdf,16-17,Bayu,Yusuf,extracted
+P010,tuntutanBulan,84,putusan_P010.pdf,2,Bayu,Yusuf,extracted
+P010,vonisBulan,72,putusan_P010.pdf,17,Bayu,Yusuf,extracted
+P010,dendaRupiah,1000000000,putusan_P010.pdf,17,Bayu,Yusuf,extracted
+P011,nomorPerkara,214/Pid.Sus/2020/PN Mnk,putusan_P011.pdf,1,Bayu,Yusuf,extracted
+P011,tanggalPutusan,2021-02-04,putusan_P011.pdf,16,Bayu,Yusuf,extracted
+P011,jenisNarkotika,ganja,putusan_P011.pdf,2-6,Bayu,Yusuf,extracted
+P011,beratBarangBuktiGram,12.9,putusan_P011.pdf,2-6,Bayu,Yusuf,extracted
+P011,pasalDakwaan,Pasal 111 ayat (1) Undang-Undang No. 35 Tahun 2009; Pasal 127 Ayat (1) undang-undang RI no.35 Tahun 2009,putusan_P011.pdf,2-6,Bayu,Yusuf,extracted
+P011,pasalTerbukti,Pasal 127  ayat (1)  Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika dan Undang-undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana,putusan_P011.pdf,16,Bayu,Yusuf,extracted
+P011,tuntutanBulan,72,putusan_P011.pdf,2,Bayu,Yusuf,extracted
+P011,vonisBulan,18,putusan_P011.pdf,16,Bayu,Yusuf,extracted
+P011,dendaRupiah,0,putusan_P011.pdf,16,Bayu,Yusuf,extracted
+P012,nomorPerkara,147/Pid.Sus/2026/PN Mnk,putusan_P012.pdf,1,Bayu,Yusuf,extracted
+P012,tanggalPutusan,2026-09-14,putusan_P012.pdf,31,Bayu,Yusuf,extracted
+P012,jenisNarkotika,sabu,putusan_P012.pdf,3;6-8,Bayu,Yusuf,extracted
+P012,beratBarangBuktiGram,0.84,putusan_P012.pdf,3;6-8,Bayu,Yusuf,extracted
+P012,pasalDakwaan,Pasal 114 ayat (1) jo Pasal 132 ayat (1) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika Jo UU Nomor 1 Tahun 2026 tentang KUHP Jo UU Nomor 1 Tahun 2026;Pasal 609 ayat (1) huruf (a) Undang-Undang RI Nomor 1 tahun 2023 tentang KUHP sebagaimana telah diubah dengan Undang-Undang R.I Nomor 1 Tahun 2026 tentang Penyesuaian Pidana.,putusan_P012.pdf,3;6-8,Bayu,Yusuf,extracted
+P012,pasalTerbukti,"Pasal 114 ayat (1) jo Pasal 132 ayat (1) UndangUndang RI Nomor 35 Tahun 2009 tentang Narkotika Jo UU Nomor 1 Tahun 2026 tentang KUHP Jo UU Nomor 1 Tahun 2026 tentang Penyesuaian Pidana , Undang-Undang Nomor 20 Tahun 2025",putusan_P012.pdf,30,Bayu,Yusuf,extracted
+P012,tuntutanBulan,96,putusan_P012.pdf,2-3,Bayu,Yusuf,extracted
+P012,vonisBulan,60,putusan_P012.pdf,30,Bayu,Yusuf,extracted
+P012,dendaRupiah,600000000,putusan_P012.pdf,30,Bayu,Yusuf,extracted
+P013,nomorPerkara,67/Pid.Sus/2026/PN Mnk,putusan_P013.pdf,1,Bayu,Yusuf,extracted
+P013,tanggalPutusan,2026-07-01,putusan_P013.pdf,47,Bayu,Yusuf,extracted
+P013,jenisNarkotika,ganja,putusan_P013.pdf,5-12,Bayu,Yusuf,extracted
+P013,beratBarangBuktiGram,16.11,putusan_P013.pdf,5-12,Bayu,Yusuf,extracted
+P013,pasalDakwaan,111 ayat (1) Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika Jo. Pasal 20 huruf c KUHP Jo. Undang-Undang Nomor 1 Tahun 2026,putusan_P013.pdf,5-12,Bayu,Yusuf,extracted
+P013,pasalTerbukti,"Pasal 114 ayat (1) UU RI. No. 35 Tahun 2009 Tentang Narkotika, Undang-Undang  Nomor 1 Tahun 2023 tentang Kitab UndangUndang Hukum Pidana , Undang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana dan Undang-undang Nomor 20 Tahun 2025",putusan_P013.pdf,38;44-45,Bayu,Yusuf,extracted
+P013,tuntutanBulan,48,putusan_P013.pdf,2-3,Bayu,Yusuf,extracted
+P013,vonisBulan,48,putusan_P013.pdf,45,Bayu,Yusuf,extracted
+P013,dendaRupiah,50000000,putusan_P013.pdf,45,Bayu,Yusuf,extracted
+P014,nomorPerkara,12/Pid.Sus/2026/PN Mnk,putusan_P014.pdf,1,Bayu,Yusuf,extracted
+P014,tanggalPutusan,2026-04-13,putusan_P014.pdf,31,Bayu,Yusuf,extracted
+P014,jenisNarkotika,ganja,putusan_P014.pdf,4-10,Bayu,Yusuf,extracted
+P014,beratBarangBuktiGram,79.05,putusan_P014.pdf,4-10,Bayu,Yusuf,extracted
+P014,pasalDakwaan,pasal 114 ayat (1) Jo Pasal 132 Ayat (1); pasal 111 ayat (1) Jo pasal 132 ayat (1) Undangundang Nomor 35 tahun 2009 tentang Narkotika Jo Lampiran II Undang-Undang Republik Indonesia nomor 1 Tahun 2026,putusan_P014.pdf,4-10,Bayu,Yusuf,extracted
+P014,pasalTerbukti,Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU RI. Nomor 35 Tahun 2009 tentang Narkotika  dan Undang-undang Nomor 8 Tahun 1981,putusan_P014.pdf,22;28-29,Bayu,Yusuf,extracted
+P014,tuntutanBulan,96,putusan_P014.pdf,2-3,Bayu,Yusuf,extracted
+P014,vonisBulan,72,putusan_P014.pdf,30,Bayu,Yusuf,extracted
+P014,dendaRupiah,1000000000,putusan_P014.pdf,30,Bayu,Yusuf,extracted
+P015,nomorPerkara,119/Pid.Sus/2019/PN.Mnk,putusan_P015.pdf,1,Bayu,Yusuf,extracted
+P015,tanggalPutusan,2019-10-15,putusan_P015.pdf,22,Bayu,Yusuf,extracted
+P015,jenisNarkotika,ganja,putusan_P015.pdf,4-7,Bayu,Yusuf,extracted
+P015,beratBarangBuktiGram,1123.92,putusan_P015.pdf,4-7,Bayu,Yusuf,extracted
+P015,pasalDakwaan,Pasal 111 ayat (2) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika,putusan_P015.pdf,4-7,Bayu,Yusuf,extracted
+P015,pasalTerbukti,Pasal 111 ayat (2) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika,putusan_P015.pdf,15;20-21,Bayu,Yusuf,extracted
+P015,tuntutanBulan,96,putusan_P015.pdf,2,Bayu,Yusuf,extracted
+P015,vonisBulan,66,putusan_P015.pdf,21,Bayu,Yusuf,extracted
+P015,dendaRupiah,1000000000,putusan_P015.pdf,21,Bayu,Yusuf,extracted
+P016,nomorPerkara,17/Pid.Sus/2026/PN Mnk,putusan_P016.pdf,1,Bayu,Yusuf,extracted
+P016,tanggalPutusan,2026-05-12,putusan_P016.pdf,22,Bayu,Yusuf,extracted
+P016,jenisNarkotika,sabu,putusan_P016.pdf,3-6,Bayu,Yusuf,extracted
+P016,beratBarangBuktiGram,0,putusan_P016.pdf,3-6,Bayu,Yusuf,extracted
+P016,pasalDakwaan,Pasal 114 ayat (1) Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika Jo Undang-undang Nomor 1 Tahun 2023 tentang KUHPidana Jo Lampiran II Undang-undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana; Pasal 114 ayat (1) Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika Jo Undang-undang Nomor 1 Tahun 2023 tentang KUHPidana Jo Lampiran II Undang-undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_P016.pdf,3-6,Bayu,Yusuf,extracted
+P016,pasalTerbukti,Pasal  114 ayat (1) Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika Jo Undang-undang Nomor 1 Tahun 2023 tentang KUHPidana Jo Lampiran II Undang-undang Nomor 1 Tahun 2026 tentang penyesuaian pidana,putusan_P016.pdf,19-22,Bayu,Yusuf,extracted
+P016,tuntutanBulan,84,putusan_P016.pdf,2-3,Bayu,Yusuf,extracted
+P016,vonisBulan,72,putusan_P016.pdf,22,Bayu,Yusuf,extracted
+P016,dendaRupiah,2000000000,putusan_P016.pdf,22,Bayu,Yusuf,extracted
+P017,nomorPerkara,10/Pid.Sus/2026/PN Mnk,putusan_P017.pdf,1,Bayu,Yusuf,extracted
+P017,tanggalPutusan,2026-04-28,putusan_P017.pdf,33,Bayu,Yusuf,extracted
+P017,jenisNarkotika,ganja,putusan_P017.pdf,3-11,Bayu,Yusuf,extracted
+P017,beratBarangBuktiGram,1.53,putusan_P017.pdf,3-11,Bayu,Yusuf,extracted
+P017,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Tentang Narkotika Jo. UU No. 1 Tahun 2003 Tentang KUHP Jo. UU No.1 Tahun 2026; pasal 127 ayat (1) huruf a Undang-undang Nomor 35 tahun 2009,putusan_P017.pdf,3-11,Bayu,Yusuf,extracted
+P017,pasalTerbukti,Pasal 127 Ayat  (1) huruf a Undang-Undang RI Nomor 35 Tahun 2009 Tentang Narkotika dan UU No. 1 Tahun 2003 Tentang KUHP Jo. UU No.1 Tahun 2026 Tentang Penyesuaian Pidana,putusan_P017.pdf,31-32,Bayu,Yusuf,extracted
+P017,tuntutanBulan,18,putusan_P017.pdf,2,Bayu,Yusuf,extracted
+P017,vonisBulan,24,putusan_P017.pdf,32,Bayu,Yusuf,extracted
+P017,dendaRupiah,0,putusan_P017.pdf,32,Bayu,Yusuf,extracted
+P018,nomorPerkara,27/Pid.Sus/2026/PN Mnk,putusan_P018.pdf,1,Bayu,Yusuf,extracted
+P018,tanggalPutusan,2026-03-17,putusan_P018.pdf,36,Bayu,Yusuf,extracted
+P018,jenisNarkotika,ganja,putusan_P018.pdf,3-15,Bayu,Yusuf,extracted
+P018,beratBarangBuktiGram,16.46,putusan_P018.pdf,3-15,Bayu,Yusuf,extracted
+P018,pasalDakwaan,Pasal 127 ayat (1) huruf a Undang – Undang RI Nomor 35 Tahun 2009 tentang Narkotika,putusan_P018.pdf,3-15,Bayu,Yusuf,extracted
+P018,pasalTerbukti,Pasal 111 ayat (1) Undang – Undang RI Nomor 35 Tahun 2009 tentang Narkotika Jo. Undang – Undang Nomor 1 Tahun 2023 tentang Kitab Undang – Undang Hukum Pidana Jo. Undang – Undang Nomor 1 Tahun 202,putusan_P018.pdf,34-35,Bayu,Yusuf,extracted
+P018,tuntutanBulan,24,putusan_P018.pdf,2,Bayu,Yusuf,extracted
+P018,vonisBulan,30,putusan_P018.pdf,35,Bayu,Yusuf,extracted
+P018,dendaRupiah,0,putusan_P018.pdf,35,Bayu,Yusuf,extracted
+P019,nomorPerkara,19/Pid.Sus/2026/PN Mnk,putusan_P019.pdf,1,Bayu,Yusuf,extracted
+P019,tanggalPutusan,2026-04-21,putusan_P019.pdf,37,Bayu,Yusuf,extracted
+P019,jenisNarkotika,sabu,putusan_P019.pdf,3-10,Bayu,Yusuf,extracted
+P019,beratBarangBuktiGram,4.67,putusan_P019.pdf,3-10,Bayu,Yusuf,extracted
+P019,pasalDakwaan,Pasal 114 ayat (1) jo Pasal 132 ayat (1) Undang-Undang Republik Indonesia Nomor : 35 Tahun 2009 Tentang Narkotika Jo Undang-Undang  Nomor 1 Tahun 2023 Tentang KUHP jo UndangUndang No 1 Tahun 2026;Pasal 609 ayat 1 a  KUHP 2023 jo Pasal VII Undang-Undang No 1 Tahun 2026,putusan_P019.pdf,3-10,Bayu,Yusuf,extracted
+P019,pasalTerbukti, Pasal 114 ayat (1) Undang-undang nomor 35 Tahun 2009 tentang Narkotika dan Undang-undang Nomor 20 Tahun 2025 tentang Hukum Acara Pidana serta peraturan perundang-undangan lain yang bersangkutan Jo Undang-undang Nomor 8 Tahun 1981,putusan_P019.pdf,36-37,Bayu,Yusuf,extracted
+P019,tuntutanBulan,36,putusan_P019.pdf,2,Bayu,Yusuf,extracted
+P019,vonisBulan,60,putusan_P019.pdf,37,Bayu,Yusuf,extracted
+P019,dendaRupiah,800000000,putusan_P019.pdf,37,Bayu,Yusuf,extracted
+P020,nomorPerkara,109/Pid.Sus/2019/PN Mnk,putusan_P020.pdf,1,Bayu,Yusuf,extracted
+P020,tanggalPutusan,2019-08-18,putusan_P020.pdf,24,Bayu,Yusuf,extracted
+P020,jenisNarkotika,sabu,putusan_P020.pdf,3-11,Bayu,Yusuf,extracted
+P020,beratBarangBuktiGram,1.64,putusan_P020.pdf,3-11,Bayu,Yusuf,extracted
+P020,pasalDakwaan,Pasal 114 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika,putusan_P020.pdf,3-11,Bayu,Yusuf,extracted
+P020,pasalTerbukti,Pasal 114 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika,putusan_P020.pdf,22-23,Bayu,Yusuf,extracted
+P020,tuntutanBulan,84,putusan_P020.pdf,2,Bayu,Yusuf,extracted
+P020,vonisBulan,72,putusan_P020.pdf,23,Bayu,Yusuf,extracted
+P020,dendaRupiah,1000000000,putusan_P020.pdf,23,Bayu,Yusuf,extracted
+P021,nomorPerkara,8/Pid.Sus/2026/PN Mnk,putusan_P021.pdf,1,Bayu,Yusuf,extracted
+P021,tanggalPutusan,2026-05-05,putusan_P021.pdf,27,Bayu,Yusuf,extracted
+P021,jenisNarkotika,ganja,putusan_P021.pdf,3-8,Bayu,Yusuf,extracted
+P021,beratBarangBuktiGram,840.82,putusan_P021.pdf,3-8,Bayu,Yusuf,extracted
+P021,pasalDakwaan,Pasal 114 Ayat (1) Undang-Undang No.35 Tahun 2009 Tentang Narkotika sebagaimana telah di ubah dengan Lampiran II UU RI  No 1 Tahun 2026 tentang Penyesuaian Pidana jo Pasal 132 Ayat (1) Undang-Undang No.35 Tahun 2009 Tentang Narkotika;Pasal 111 Ayat (1) Undang-Undang No.35 Tahun 2009 Tentang Narkotika sebagaimana telah di ubah dengan Lampiran II UU RI No 1 Tahun 2026 tentang Penyesuaian Pidana jo Pasal 132 Ayat (1) Undang-Undang No.35 Tahun 2009 Tentang Narkotika,putusan_P021.pdf,3-8,Bayu,Yusuf,extracted
+P021,pasalTerbukti,"Pasal 114 ayat (1) )  Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika, Undang-Undang Nomor 1 Tahun 2026 tentang Penyesuan Pidana dan Undang-undang Nomor 2 Tahun 2025",putusan_P021.pdf,25-26,Bayu,Yusuf,extracted
+P021,tuntutanBulan,120,putusan_P021.pdf,2,Bayu,Yusuf,extracted
+P021,vonisBulan,84,putusan_P021.pdf,26,Bayu,Yusuf,extracted
+P021,dendaRupiah,1000000000,putusan_P021.pdf,26,Bayu,Yusuf,extracted
+P022,nomorPerkara,29/Pid.Sus/2026/PN Mnk,putusan_P022.pdf,1,Bayu,Yusuf,extracted
+P022,tanggalPutusan,2026-06-21,putusan_P022.pdf,29,Bayu,Yusuf,extracted
+P022,jenisNarkotika,sabu,putusan_P022.pdf,6;8,Bayu,Yusuf,extracted
+P022,beratBarangBuktiGram,61.82,putusan_P022.pdf,6;8,Bayu,Yusuf,extracted
+P022,pasalDakwaan,Pasal 114 ayat (1) UndangUndang Nomor 35 Tahun 2009 tentang Narkotika Jo Undang-undang Nomor 1 Tahun 2023 tentang KUHPidana Jo Lampiran II Undang-undang Nomor 1 Tahun 2026; Pasal 609 ayat (2) huruf a KUH Pidana jo Undang-Undang Nomor 1 Tahun 2026,putusan_P022.pdf,6;8,Bayu,Yusuf,extracted
+P022,pasalTerbukti,Pasal 114 ayat (1)  Undang-Undang R.I. Nomor 35 Tahun 2009 tentang Narkotika jo. Undang-Undang Republik Indonesia Nomor 1 Tahun 2026,putusan_P022.pdf,28,Bayu,Yusuf,extracted
+P022,tuntutanBulan,108,putusan_P022.pdf,3,Bayu,Yusuf,extracted
+P022,vonisBulan,84,putusan_P022.pdf,28,Bayu,Yusuf,extracted
+P022,dendaRupiah,500000000,putusan_P022.pdf,28,Bayu,Yusuf,extracted
+P023,nomorPerkara,8/Pid.Sus-Anak/2026/PN Mnk,putusan_P023.pdf,1,Bayu,Yusuf,extracted
+P023,tanggalPutusan,2026-06-23,putusan_P023.pdf,40,Bayu,Yusuf,extracted
+P023,jenisNarkotika,ganja,putusan_P023.pdf,7-13,Bayu,Yusuf,extracted
+P023,beratBarangBuktiGram,42.69,putusan_P023.pdf,7-13,Bayu,Yusuf,extracted
+P023,pasalDakwaan,114 Ayat (1) Undang-Undang Nomor 35 Tahun 2009 Tentang Narkotika Jo Pasal 132 Ayat (1) Undang-Undang Nomor 35 Tahun 2009 Tentang Narkotika Jo Undang-Undang Nomor 1 Tahun 2023 Tentang KUHP Jo Undang-Undang Nomor 1 Tahun 2026; Pasal 127 Ayat (1) Huruf a Undang-Undang Nomor 35 Tahun 2009,putusan_P023.pdf,7-13,Bayu,Yusuf,extracted
+P023,pasalTerbukti,"Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU RI Nomor 35 Tahun 2009 Tentang Narkotika, Undang-undang Nomor 3 Tahun 1997 tentang Pengadilan Anak dan Undang-undang Nomor 20 Tahun 2025",putusan_P023.pdf,26;30-35,Bayu,Yusuf,extracted
+P023,tuntutanBulan,13,putusan_P023.pdf,2-6,Bayu,Yusuf,extracted
+P023,vonisBulan,13,putusan_P023.pdf,35,Bayu,Yusuf,extracted
+P023,dendaRupiah,0,putusan_P023.pdf,35,Bayu,Yusuf,extracted
+P024,nomorPerkara,31/Pid.Sus/2026/PN Mnk,putusan_P024.pdf,1,Bayu,Yusuf,extracted
+P024,tanggalPutusan,2026-05-12,putusan_P024.pdf,20,Bayu,Yusuf,extracted
+P024,jenisNarkotika,sabu,putusan_P024.pdf,5-6,Bayu,Yusuf,extracted
+P024,beratBarangBuktiGram,0.6,putusan_P024.pdf,5-6,Bayu,Yusuf,extracted
+P024,pasalDakwaan,Pasal 114 Ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika jo Lampiran II UndangUndang Nomor 1 Tahun 2026;Pasal 609 ayat 1 huruf a KUH Pidana Undang-Undang Nomor 1 Tahun 2023 Tentang Kitab Undang-Undang Hukum Pidana Sebagaimana di ubah Pasal VII angka 50 Undang-Undang Nomor 1 Tahun 2026,putusan_P024.pdf,5-6,Bayu,Yusuf,extracted
+P024,pasalTerbukti,Pasal 114 ayat (1) Undang-Undang R.I. No. 35 Tahun 2009 tentang Narkotika Jo Lampiran II Undang-Undang Nomor 1 Tahun 2026,putusan_P024.pdf,19,Bayu,Yusuf,extracted
+P024,tuntutanBulan,72,putusan_P024.pdf,2,Bayu,Yusuf,extracted
+P024,vonisBulan,60,putusan_P024.pdf,19,Bayu,Yusuf,extracted
+P024,dendaRupiah,2000000000,putusan_P024.pdf,19,Bayu,Yusuf,extracted
+P025,nomorPerkara,30/Pid.Sus/2026/PN Mnk,putusan_P025.pdf,1,Bayu,Yusuf,extracted
+P025,tanggalPutusan,2026-05-14,putusan_P025.pdf,38,Bayu,Yusuf,extracted
+P025,jenisNarkotika,ganja,putusan_P025.pdf,8;11,Bayu,Yusuf,extracted
+P025,beratBarangBuktiGram,1131.63,putusan_P025.pdf,8;11,Bayu,Yusuf,extracted
+P025,pasalDakwaan,Pasal 114 ayat (2) UU RI. No. 35 Tahun 2009 Tentang Narkotika Jo UU RI Nomor 1 Tahun 2023 tentang KUHPidana Jo Lampiran II Undang- Undang No 1 Tahun 2026; Pasal 111 ayat (2) UU RI. No. 35 Tahun 2009 Tentang Narkotika  Jo Lampiran II Undang- Undang No 1 Tahun 2026 Tentang Penyesuain Pidana,putusan_P025.pdf,8;11,Bayu,Yusuf,extracted
+P025,pasalTerbukti,"Pasal 111 ayat (2) Undang-Undang R.I. No. 35 Tahun 2009 Tentang Narkotika, , Undang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana dan Undang-undang Nomor 20 Tahun 2025",putusan_P025.pdf,36,Bayu,Yusuf,extracted
+P025,tuntutanBulan,144,putusan_P025.pdf,2-3,Bayu,Yusuf,extracted
+P025,vonisBulan,120,putusan_P025.pdf,36,Bayu,Yusuf,extracted
+P025,dendaRupiah,2000000000,putusan_P025.pdf,36,Bayu,Yusuf,extracted
+P026,nomorPerkara,49/Pid.Sus/2026/PN Mnk,putusan_P026.pdf,1,Yusuf,Bayu,extracted
+P026,tanggalPutusan,2026-05-05,putusan_P026.pdf,40,Yusuf,Bayu,extracted
+P026,jenisNarkotika,tembakau sintetis,putusan_P026.pdf,3-9,Yusuf,Bayu,extracted
+P026,beratBarangBuktiGram,0.93,putusan_P026.pdf,3-9,Yusuf,Bayu,extracted
+P026,pasalDakwaan,Pasal 114 ayat (1) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika Jo. Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana Jo. Undang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana.,putusan_P026.pdf,3-9,Yusuf,Bayu,extracted
+P026,pasalTerbukti,Pasal 127 ayat (1) huruf a Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika (sebagaimana dalam Dakwaan Alternatif Ketiga).,putusan_P026.pdf,39,Yusuf,Bayu,extracted
+P026,tuntutanBulan,26,putusan_P026.pdf,2-3,Yusuf,Bayu,extracted
+P026,vonisBulan,30,putusan_P026.pdf,39,Yusuf,Bayu,extracted
+P026,dendaRupiah,100000000,putusan_P026.pdf,39,Yusuf,Bayu,extracted
+P027,nomorPerkara,28/Pid.Sus/2026/PN Mnk,putusan_P027.pdf,1,Yusuf,Bayu,extracted
+P027,tanggalPutusan,2026-04-27,putusan_P027.pdf,22,Yusuf,Bayu,extracted
+P027,jenisNarkotika,sabu,putusan_P027.pdf,3-6,Yusuf,Bayu,extracted
+P027,beratBarangBuktiGram,4.89,putusan_P027.pdf,3-6,Yusuf,Bayu,extracted
+P027,pasalDakwaan,Primair: Pasal 114 ayat (1) Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika Jo. Undang-Undang Nomor 1 Tahun 2023 tentang KUHPidana Jo. Lampiran II Undang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_P027.pdf,3-6,Yusuf,Bayu,extracted
+P027,pasalTerbukti,Pasal 114 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika Jo. Undang-Undang Republik Indonesia Nomor 1 Tahun 2026 tentang Penyesuaian Pidana (sebagaimana dakwaan Primair),putusan_P027.pdf,21,Yusuf,Bayu,extracted
+P027,tuntutanBulan,62,putusan_P027.pdf,2,Yusuf,Bayu,extracted
+P027,vonisBulan,72,putusan_P027.pdf,21,Yusuf,Bayu,extracted
+P027,dendaRupiah,200000000,putusan_P027.pdf,21,Yusuf,Bayu,extracted
+P028,nomorPerkara,60/Pid.Sus/2021/PN Mnk,putusan_P028.pdf,1,Yusuf,Bayu,extracted
+P028,tanggalPutusan,2021-04-27,putusan_P028.pdf,17,Yusuf,Bayu,extracted
+P028,jenisNarkotika,ganja,putusan_P028.pdf,3-6,Yusuf,Bayu,extracted
+P028,beratBarangBuktiGram,57,putusan_P028.pdf,3-6,Yusuf,Bayu,extracted
+P028,pasalDakwaan,Primair: Pasal 114 ayat (1) Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika,putusan_P028.pdf,3-6,Yusuf,Bayu,extracted
+P028,pasalTerbukti,Pasal 114 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika (sebagaimana dakwaan Primer Penuntut Umum),putusan_P028.pdf,16,Yusuf,Bayu,extracted
+P028,tuntutanBulan,45,putusan_P028.pdf,2-3,Yusuf,Bayu,extracted
+P028,vonisBulan,72,putusan_P028.pdf,16,Yusuf,Bayu,extracted
+P028,dendaRupiah,1000000000,putusan_P028.pdf,16,Yusuf,Bayu,extracted
+P029,nomorPerkara,23/Pid.Sus/2026/PN Mnk,putusan_P029.pdf,1,Yusuf,Bayu,extracted
+P029,tanggalPutusan,2026-05-06,putusan_P029.pdf,26,Yusuf,Bayu,extracted
+P029,jenisNarkotika,ganja,putusan_P029.pdf,5-10,Yusuf,Bayu,extracted
+P029,beratBarangBuktiGram,118.44,putusan_P029.pdf,5-10,Yusuf,Bayu,extracted
+P029,pasalDakwaan,Primair: Pasal 114 ayat (1) Undang-Undang RI No. 35 Tahun 2009 tentang Narkotika Jo. Pasal 610 ayat (1) huruf a Undang-Undang Nomor 1 Tahun 2023 tentang KUH Pidana Jo. Pasal 1 ayat (1) huruf a Undang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_P029.pdf,5-10,Yusuf,Bayu,extracted
+P029,pasalTerbukti,Pasal 114 ayat (1) Undang-Undang RI No. 35 Tahun 2009 tentang Narkotika (sebagaimana dakwaan Primair Jaksa Penuntut Umum),putusan_P029.pdf,23,Yusuf,Bayu,extracted
+P029,tuntutanBulan,76,putusan_P029.pdf,2-5,Yusuf,Bayu,extracted
+P029,vonisBulan,84,putusan_P029.pdf,23,Yusuf,Bayu,extracted
+P029,dendaRupiah,800000000,putusan_P029.pdf,23,Yusuf,Bayu,extracted
+P030,nomorPerkara,65/Pid.Sus/2026/PN Mnk,putusan_P030.pdf,1,Yusuf,Bayu,extracted
+P030,tanggalPutusan,2026-07-02,putusan_P030.pdf,38,Yusuf,Bayu,extracted
+P030,jenisNarkotika,ganja,putusan_P030.pdf,4-10,Yusuf,Bayu,extracted
+P030,beratBarangBuktiGram,20.73,putusan_P030.pdf,4-10,Yusuf,Bayu,extracted
+P030,pasalDakwaan,Pertama: Pasal 114 ayat (1) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika Jo. Lampiran II Undang-Undang Republik Indonesia Tahun 2026 tentang Penyesuaian Pidana,putusan_P030.pdf,4-10,Yusuf,Bayu,extracted
+P030,pasalTerbukti,Pasal 111 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika (sebagaimana dakwaan Alternatif Kedua),putusan_P030.pdf,36,Yusuf,Bayu,extracted
+P030,tuntutanBulan,57,putusan_P030.pdf,2-4,Yusuf,Bayu,extracted
+P030,vonisBulan,60,putusan_P030.pdf,36,Yusuf,Bayu,extracted
+P030,dendaRupiah,800000000,putusan_P030.pdf,36,Yusuf,Bayu,extracted
+P031,nomorPerkara,54/Pid.Sus/2026/PN Mnk,putusan_P031.pdf,1,Yusuf,Bayu,extracted
+P031,tanggalPutusan,2026-06-18,putusan_P031.pdf,19,Yusuf,Bayu,extracted
+P031,jenisNarkotika,ganja,putusan_P031.pdf,2-5,Yusuf,Bayu,extracted
+P031,beratBarangBuktiGram,3.64,putusan_P031.pdf,2-5,Yusuf,Bayu,extracted
+P031,pasalDakwaan,Primair: Pasal 114 ayat (1) Jo. Pasal 132 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika Jo. Pasal 1 ayat (1) Undang-Undang Republik Indonesia Nomor 1 Tahun 2026 tentang Penyesuaian Pidana Jo,putusan_P031.pdf,2-5,Yusuf,Bayu,extracted
+P031,pasalTerbukti,"10 (sepuluh) bungkus plastik klip bening ukuran kecil berisi Narkotika Golongan I jenis Ganja (dengan rincian berat bersih berkisar antara 0,30 gram hingga 0,40 gram; kode BB 1 s.d. BB 10)",putusan_P031.pdf,18,Yusuf,Bayu,extracted
+P031,tuntutanBulan,84,putusan_P031.pdf,9,Yusuf,Bayu,extracted
+P031,vonisBulan,60,putusan_P031.pdf,18,Yusuf,Bayu,extracted
+P031,dendaRupiah,800000000,putusan_P031.pdf,18,Yusuf,Bayu,extracted
+P032,nomorPerkara,86/Pid.Sus/2026/PN Mnk,putusan_P032.pdf,1,Yusuf,Bayu,extracted
+P032,tanggalPutusan,2026-,putusan_P032.pdf,14,Yusuf,Bayu,extracted
+P032,jenisNarkotika,ganja,putusan_P032.pdf,2-4,Yusuf,Bayu,extracted
+P032,beratBarangBuktiGram,6.89,putusan_P032.pdf,2-4,Yusuf,Bayu,extracted
+P032,pasalDakwaan,"Primair Pasal 114 ayat (1) jo. Pasal 132 ayat (1), Subsidair Pasal 112 ayat (1) jo. Pasal 132 ayat (1), Lebih Subsidair Pasal 127 ayat (1) huruf a Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika",putusan_P032.pdf,2-4,Yusuf,Bayu,extracted
+P032,pasalTerbukti,"1 (satu) bungkus plastik bening berisikan Narkotika Golongan I bentuk tanaman jenis Ganja dengan berat bersih 6,89 gram",putusan_P032.pdf,13,Yusuf,Bayu,extracted
+P032,tuntutanBulan,45,putusan_P032.pdf,5-6,Yusuf,Bayu,extracted
+P032,vonisBulan,60,putusan_P032.pdf,13,Yusuf,Bayu,extracted
+P032,dendaRupiah,50000000,putusan_P032.pdf,13,Yusuf,Bayu,extracted
+P033,nomorPerkara,62/Pid.Sus/2026/PN Mnk,putusan_P033.pdf,1,Yusuf,Bayu,extracted
+P033,tanggalPutusan,2026-,putusan_P033.pdf,21,Yusuf,Bayu,extracted
+P033,jenisNarkotika,sabu,putusan_P033.pdf,2-6,Yusuf,Bayu,extracted
+P033,beratBarangBuktiGram,3.87,putusan_P033.pdf,2-6,Yusuf,Bayu,extracted
+P033,pasalDakwaan,Primair: Pasal 114 ayat (1) Undang-undang Nomor 35 tahun 2009 tentang Narkotika Jo. Pasal 609 ayat (1) huruf a UU No,putusan_P033.pdf,2-6,Yusuf,Bayu,extracted
+P033,pasalTerbukti,Pasal 112 ayat (1) Undang-undang Nomor 35 tahun 2009 tentang Narkotika Jo. Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 tentang KUHP Jo. Pasal 1 ayat (1) huruf a UU No,putusan_P033.pdf,20,Yusuf,Bayu,extracted
+P033,tuntutanBulan,33,putusan_P033.pdf,9,Yusuf,Bayu,extracted
+P033,vonisBulan,34,putusan_P033.pdf,20,Yusuf,Bayu,extracted
+P033,dendaRupiah,800000000,putusan_P033.pdf,20,Yusuf,Bayu,extracted
+P034,nomorPerkara,107/Pid.Sus/2021/PN Mnk,putusan_P034.pdf,1,Yusuf,Bayu,extracted
+P034,tanggalPutusan,2021-04-27,putusan_P034.pdf,25,Yusuf,Bayu,extracted
+P034,jenisNarkotika,ganja,putusan_P034.pdf,3-7,Yusuf,Bayu,extracted
+P034,beratBarangBuktiGram,2.75,putusan_P034.pdf,3-7,Yusuf,Bayu,extracted
+P034,pasalDakwaan,Primair: Pasal 114 ayat (1) Jo. Pasal 132 ayat (1) Undang-Undang No. 35 Tahun 2009 tentang Narkotika,putusan_P034.pdf,3-7,Yusuf,Bayu,extracted
+P034,pasalTerbukti,Pasal 127 ayat (1) huruf a Jo. Pasal 132 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika,putusan_P034.pdf,24,Yusuf,Bayu,extracted
+P034,tuntutanBulan,16,putusan_P034.pdf,2,Yusuf,Bayu,extracted
+P034,vonisBulan,12,putusan_P034.pdf,24,Yusuf,Bayu,extracted
+P034,dendaRupiah,100000000,putusan_P034.pdf,24,Yusuf,Bayu,extracted
+P035,nomorPerkara,77/Pid.Sus/2026/PN Mnk,putusan_P035.pdf,1,Yusuf,Bayu,extracted
+P035,tanggalPutusan,2026-,putusan_P035.pdf,24,Yusuf,Bayu,extracted
+P035,jenisNarkotika,ganja,putusan_P035.pdf,3-6,Yusuf,Bayu,extracted
+P035,beratBarangBuktiGram,1.66,putusan_P035.pdf,3-6,Yusuf,Bayu,extracted
+P035,pasalDakwaan,Primair: Pasal 114 ayat (1) Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika Jo. Lampiran II Undang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_P035.pdf,3-6,Yusuf,Bayu,extracted
+P035,pasalTerbukti,Pasal 114 ayat (1) Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika Jo. Lampiran II Undang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_P035.pdf,23,Yusuf,Bayu,extracted
+P035,tuntutanBulan,54,putusan_P035.pdf,2,Yusuf,Bayu,extracted
+P035,vonisBulan,60,putusan_P035.pdf,23,Yusuf,Bayu,extracted
+P035,dendaRupiah,500000000,putusan_P035.pdf,23,Yusuf,Bayu,extracted
+P036,nomorPerkara,104/Pid.Sus/2019/PN MNK,putusan_P036.pdf,1,Yusuf,Bayu,extracted
+P036,tanggalPutusan,2019-08-05,putusan_P036.pdf,23,Yusuf,Bayu,extracted
+P036,jenisNarkotika,ganja,putusan_P036.pdf,3;5,Yusuf,Bayu,extracted
+P036,beratBarangBuktiGram,2.87,putusan_P036.pdf,3;5,Yusuf,Bayu,extracted
+P036,pasalDakwaan,Pasal 111 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika,putusan_P036.pdf,3;5,Yusuf,Bayu,extracted
+P036,pasalTerbukti,Pasal 111 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika,putusan_P036.pdf,22,Yusuf,Bayu,extracted
+P036,tuntutanBulan,48,putusan_P036.pdf,2,Yusuf,Bayu,extracted
+P036,vonisBulan,54,putusan_P036.pdf,22,Yusuf,Bayu,extracted
+P036,dendaRupiah,800000000,putusan_P036.pdf,22,Yusuf,Bayu,extracted
+P037,nomorPerkara,48/Pid.Sus/2026/PN Mnk,putusan_P037.pdf,1,Yusuf,Bayu,extracted
+P037,tanggalPutusan,2026--05-05,putusan_P037.pdf,19,Yusuf,Bayu,extracted
+P037,jenisNarkotika,tembakau sintetis,putusan_P037.pdf,2;6,Yusuf,Bayu,extracted
+P037,beratBarangBuktiGram,5,putusan_P037.pdf,2;6,Yusuf,Bayu,extracted
+P037,pasalDakwaan,"Alternatif Kesatu Pasal 114 ayat (1) UU Narkotika, Kedua Pasal 609 ayat (1) huruf a KUHP jo. UU No. 1 Tahun 2026, Ketiga Pasal 127 ayat (1) huruf a UU Narkotika.",putusan_P037.pdf,2;6,Yusuf,Bayu,extracted
+P037,pasalTerbukti,Pasal 127 ayat (1) huruf a Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika (Penyalah Guna Narkotika Golongan I bagi diri sendiri).,putusan_P037.pdf,19,Yusuf,Bayu,extracted
+P037,tuntutanBulan,24,putusan_P037.pdf,2,Yusuf,Bayu,extracted
+P037,vonisBulan,30,putusan_P037.pdf,19,Yusuf,Bayu,extracted
+P037,dendaRupiah,50000000,putusan_P037.pdf,19,Yusuf,Bayu,extracted
+P038,nomorPerkara,92/Pid.Sus/2026/PN Mnk,putusan_P038.pdf,1,Yusuf,Bayu,extracted
+P038,tanggalPutusan,2026-08-04,putusan_P038.pdf,11,Yusuf,Bayu,extracted
+P038,jenisNarkotika,sabu,putusan_P038.pdf,2;4,Yusuf,Bayu,extracted
+P038,beratBarangBuktiGram,0.24,putusan_P038.pdf,2;4,Yusuf,Bayu,extracted
+P038,pasalDakwaan,"Primair Pasal 114 ayat (1) jo. Pasal 132 ayat (1), Subsidair Pasal 112 ayat (1) jo. Pasal 132 ayat (1), Lebih Subsidair Pasal 127 ayat (1) huruf a Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika",putusan_P038.pdf,2;4,Yusuf,Bayu,extracted
+P038,pasalTerbukti,Pasal 127 ayat (1) huruf a Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika (Penyalah Guna Narkotika Golongan I bagi diri sendiri) sebagaimana dakwaan Lebih Subsidair,putusan_P038.pdf,10,Yusuf,Bayu,extracted
+P038,tuntutanBulan,60,putusan_P038.pdf,2,Yusuf,Bayu,extracted
+P038,vonisBulan,12,putusan_P038.pdf,10,Yusuf,Bayu,extracted
+P038,dendaRupiah,800000000,putusan_P038.pdf,10,Yusuf,Bayu,extracted
+P039,nomorPerkara,261/Pid.Sus/2018/PN Mnk,putusan_P039.pdf,1,Yusuf,Bayu,extracted
+P039,tanggalPutusan,2019-04-09,putusan_P039.pdf,37,Yusuf,Bayu,extracted
+P039,jenisNarkotika,ganja,putusan_P039.pdf,3;7,Yusuf,Bayu,extracted
+P039,beratBarangBuktiGram,9.94,putusan_P039.pdf,3;7,Yusuf,Bayu,extracted
+P039,pasalDakwaan,Kesatu: Pasal 114 ayat (1) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika,putusan_P039.pdf,3;7,Yusuf,Bayu,extracted
+P039,pasalTerbukti,Pasal 111 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika (sebagaimana dalam Dakwaan Kedua),putusan_P039.pdf,37,Yusuf,Bayu,extracted
+P039,tuntutanBulan,84,putusan_P039.pdf,2,Yusuf,Bayu,extracted
+P039,vonisBulan,60,putusan_P039.pdf,37,Yusuf,Bayu,extracted
+P039,dendaRupiah,800000000,putusan_P039.pdf,37,Yusuf,Bayu,extracted
+P040,nomorPerkara,96/Pid.Sus/2026/PN Mnk,putusan_P040.pdf,1,Yusuf,Bayu,extracted
+P040,tanggalPutusan,2026-08-20,putusan_P040.pdf,16,Yusuf,Bayu,extracted
+P040,jenisNarkotika,ganja,putusan_P040.pdf,2;5,Yusuf,Bayu,extracted
+P040,beratBarangBuktiGram,0.18,putusan_P040.pdf,2;5,Yusuf,Bayu,extracted
+P040,pasalDakwaan,"Primair Pasal 111 ayat (1), Subsidair Pasal 127 ayat (1) huruf a Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika.",putusan_P040.pdf,2;5,Yusuf,Bayu,extracted
+P040,pasalTerbukti,Pasal 127 ayat (1) huruf a Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika (Penyalah Guna Narkotika Golongan I bagi diri sendiri) sebagaimana dakwaan Subsidair (dakwaan primair tidak terbukti).,putusan_P040.pdf,14,Yusuf,Bayu,extracted
+P040,tuntutanBulan,24,putusan_P040.pdf,2,Yusuf,Bayu,extracted
+P040,vonisBulan,18,putusan_P040.pdf,14,Yusuf,Bayu,extracted
+P040,dendaRupiah,500000,putusan_P040.pdf,14,Yusuf,Bayu,extracted
+P041,nomorPerkara,100/Pid.Sus/2026/PN Mnk,putusan_P041.pdf,1,Yusuf,Bayu,extracted
+P041,tanggalPutusan,2026-08-13,putusan_P041.pdf,16,Yusuf,Bayu,extracted
+P041,jenisNarkotika,ganja,putusan_P041.pdf,2;3,Yusuf,Bayu,extracted
+P041,beratBarangBuktiGram,11.92,putusan_P041.pdf,2;3,Yusuf,Bayu,extracted
+P041,pasalDakwaan,"Primair Pasal 111 ayat (1), Subsidair Pasal 127 ayat (1) huruf a Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika.",putusan_P041.pdf,2;3,Yusuf,Bayu,extracted
+P041,pasalTerbukti,"1 (satu) bungkus plastik bening berisikan Narkotika Golongan I bentuk tanaman jenis Ganja dengan berat bersih 6,89 gram",putusan_P041.pdf,14,Yusuf,Bayu,extracted
+P041,tuntutanBulan,84,putusan_P041.pdf,2,Yusuf,Bayu,extracted
+P041,vonisBulan,60,putusan_P041.pdf,14,Yusuf,Bayu,extracted
+P041,dendaRupiah,50000000,putusan_P041.pdf,14,Yusuf,Bayu,extracted
+P042,nomorPerkara,84/Pid.Sus/2019/PN Mnk,putusan_P042.pdf,1,Yusuf,Bayu,extracted
+P042,tanggalPutusan,2019-04-16,putusan_P042.pdf,18,Yusuf,Bayu,extracted
+P042,jenisNarkotika,ganja,putusan_P042.pdf,2;4,Yusuf,Bayu,extracted
+P042,beratBarangBuktiGram,1.41,putusan_P042.pdf,2;4,Yusuf,Bayu,extracted
+P042,pasalDakwaan,Primair: Pasal 114 ayat (1) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika,putusan_P042.pdf,2;4,Yusuf,Bayu,extracted
+P042,pasalTerbukti,Pasal 114 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika (sebagaimana dalam Dakwaan Primair),putusan_P042.pdf,18,Yusuf,Bayu,extracted
+P042,tuntutanBulan,84,putusan_P042.pdf,2,Yusuf,Bayu,extracted
+P042,vonisBulan,60,putusan_P042.pdf,18,Yusuf,Bayu,extracted
+P042,dendaRupiah,1000000000,putusan_P042.pdf,18,Yusuf,Bayu,extracted
+P043,nomorPerkara,102/Pid.Sus/2026/PN Mnk,putusan_P043.pdf,1,Yusuf,Bayu,extracted
+P043,tanggalPutusan,2026-06-20,putusan_P043.pdf,50,Yusuf,Bayu,extracted
+P043,jenisNarkotika,ganja,putusan_P043.pdf,6;8,Yusuf,Bayu,extracted
+P043,beratBarangBuktiGram,1719.37,putusan_P043.pdf,6;8,Yusuf,Bayu,extracted
+P043,pasalDakwaan,Primair Pasal 114 ayat (2) UU Narkotika Jo UU No. 1 Tahun 2023 Jo Lampiran II UU No. 1 Tahun 2026; Subsidair Pasal 111 ayat (2) UU Narkotika Jo UU No. 1 Tahun 2023 Jo Lampiran II UU No. 1 Tahun 2026.,putusan_P043.pdf,6;8,Yusuf,Bayu,extracted
+P043,pasalTerbukti,"Primair Pasal 114 ayat (2) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika Jo UU No. 1 Tahun 2023 Jo Lampiran II UU No. 1 Tahun 2026 (Tanpa hak atau melawan hukum menerima, menjadi perantara dalam jual beli, menukar, atau menyerahkan Narkotika Golongan I dalam bentuk tanaman beratnya melebihi 1 kilogram atau melebihi 5 batang pohon).",putusan_P043.pdf,46,Yusuf,Bayu,extracted
+P043,tuntutanBulan,180,putusan_P043.pdf,2,Yusuf,Bayu,extracted
+P043,vonisBulan,168,putusan_P043.pdf,46,Yusuf,Bayu,extracted
+P043,dendaRupiah,500000000,putusan_P043.pdf,46,Yusuf,Bayu,extracted
+P044,nomorPerkara,88/Pid.Sus/2021/PN Mnk,putusan_P044.pdf,1,Yusuf,Bayu,extracted
+P044,tanggalPutusan,2021-06-22,putusan_P044.pdf,16,Yusuf,Bayu,extracted
+P044,jenisNarkotika,ganja,putusan_P044.pdf,2;4,Yusuf,Bayu,extracted
+P044,beratBarangBuktiGram,19.5,putusan_P044.pdf,2;4,Yusuf,Bayu,extracted
+P044,pasalDakwaan,Primair Pasal 114 ayat (1) UU RI Nomor 35 Tahun 2009 tentang Narkotika; Subsidair Pasal 111 ayat (1) UU RI Nomor 35 Tahun 2009 tentang Narkotika.,putusan_P044.pdf,2;4,Yusuf,Bayu,extracted
+P044,pasalTerbukti,"Subsidair Pasal 111 ayat (1) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika (Tanpa Hak atau Melawan Hukum Memiliki, Menyimpan, Menguasai Narkotika Golongan I dalam Bentuk Tanaman) — dakwaan primair tidak terbukti dan dibebaskan darinya",putusan_P044.pdf,16,Yusuf,Bayu,extracted
+P044,tuntutanBulan,48,putusan_P044.pdf,2,Yusuf,Bayu,extracted
+P044,vonisBulan,60,putusan_P044.pdf,16,Yusuf,Bayu,extracted
+P044,dendaRupiah,800000000,putusan_P044.pdf,16,Yusuf,Bayu,extracted
+P045,nomorPerkara,142/Pid.Sus/2026/PN Mnk,putusan_P045.pdf,1,Yusuf,Bayu,extracted
+P045,tanggalPutusan,2026-09-24,putusan_P045.pdf,28,Yusuf,Bayu,extracted
+P045,jenisNarkotika,ganja,putusan_P045.pdf,3;6,Yusuf,Bayu,extracted
+P045,beratBarangBuktiGram,42.78,putusan_P045.pdf,3;6,Yusuf,Bayu,extracted
+P045,pasalDakwaan,Primair Pasal 114 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026; Subsidair Pasal 111 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026; Lebih Subsidair Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika,putusan_P045.pdf,3;6,Yusuf,Bayu,extracted
+P045,pasalTerbukti,"Primair Pasal 114 ayat (1) Jo Pasal 132 ayat (1) Undang-Undang Nomor 35 Tahun 2009 tentang Narkotika Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026 (Melakukan pemufakatan jahat untuk melakukan tindak pidana Narkotika dengan tanpa hak atau melawan hukum membeli, menerima Narkotika Golongan I jenis tanaman Ganja)",putusan_P045.pdf,21,Yusuf,Bayu,extracted
+P045,tuntutanBulan,96,putusan_P045.pdf,2,Yusuf,Bayu,extracted
+P045,vonisBulan,84,putusan_P045.pdf,21,Yusuf,Bayu,extracted
+P045,dendaRupiah,500000000,putusan_P045.pdf,21,Yusuf,Bayu,extracted
+P046,nomorPerkara,146/Pid.Sus/2026/PN Mnk,putusan_P046.pdf,1,Yusuf,Bayu,extracted
+P046,tanggalPutusan,2026-09-21,putusan_P046.pdf,29,Yusuf,Bayu,extracted
+P046,jenisNarkotika,sabu,putusan_P046.pdf,3;4,Yusuf,Bayu,extracted
+P046,beratBarangBuktiGram,0.84,putusan_P046.pdf,3;4,Yusuf,Bayu,extracted
+P046,pasalDakwaan,Tunggal Pasal 114 ayat (1) jo Pasal 132 ayat (1) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika Jo UU Nomor 1 Tahun 2026 tentang KUHP Jo UU Nomor 1 Tahun 2026 tentang Penyesuaian Pidana (Permufakatan Jahat Tanpa Hak Menjual Narkotika Golongan I jenis Sabu).,putusan_P046.pdf,3;4,Yusuf,Bayu,extracted
+P046,pasalTerbukti,Primair Pasal 114 ayat (1) jo Pasal 132 ayat (1) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika Jo UU Nomor 1 Tahun 2026 tentang KUHP Jo UU Nomor 1 Tahun 2026 tentang Penyesuaian Pidana.,putusan_P046.pdf,25,Yusuf,Bayu,extracted
+P046,tuntutanBulan,144,putusan_P046.pdf,2-3,Yusuf,Bayu,extracted
+P046,vonisBulan,96,putusan_P046.pdf,25,Yusuf,Bayu,extracted
+P046,dendaRupiah,1000000000,putusan_P046.pdf,25,Yusuf,Bayu,extracted
+P047,nomorPerkara,101/Pid.Sus/2026/PN Mnk,putusan_P047.pdf,1,Yusuf,Bayu,extracted
+P047,tanggalPutusan,2026-07-20,putusan_P047.pdf,31,Yusuf,Bayu,extracted
+P047,jenisNarkotika,ganja,putusan_P047.pdf,3;4,Yusuf,Bayu,extracted
+P047,beratBarangBuktiGram,9.64,putusan_P047.pdf,3;4,Yusuf,Bayu,extracted
+P047,pasalDakwaan,Primair Pasal 114 ayat (1) UU RI Nomor 35 Tahun 2009 tentang Narkotika Jo UU Nomor 1 Tahun 2023 Jo Lampiran II UU Nomor 1 Tahun 2026; Subsidair Pasal 111 ayat (1) UU RI Nomor 35 Tahun 2009 tentang Narkotika Jo UU Nomor 1 Tahun 2023 Jo Lampiran II UU Nomor 1 Tahun 2026.,putusan_P047.pdf,3;4,Yusuf,Bayu,extracted
+P047,pasalTerbukti,"Subsidair Pasal 111 ayat (1) Undang-Undang RI Nomor 35 Tahun 2009 tentang Narkotika Jo UU Nomor 1 Tahun 2023 Jo Lampiran II UU Nomor 1 Tahun 2026 (Tanpa hak atau melawan hukum memiliki, menyimpan, menguasai, atau menyediakan Narkotika golongan I bukan tanaman) — dakwaan primair tidak terbukti dan dibebaskan darinya",putusan_P047.pdf,29,Yusuf,Bayu,extracted
+P047,tuntutanBulan,72,putusan_P047.pdf,2,Yusuf,Bayu,extracted
+P047,vonisBulan,60,putusan_P047.pdf,29,Yusuf,Bayu,extracted
+P047,dendaRupiah,500000000,putusan_P047.pdf,29,Yusuf,Bayu,extracted
+P048,nomorPerkara,94/Pid.Sus/2026/PN Mnk,putusan_P048.pdf,1,Yusuf,Bayu,extracted
+P048,tanggalPutusan,2026-08-11,putusan_P048.pdf,37,Yusuf,Bayu,extracted
+P048,jenisNarkotika,sabu,putusan_P048.pdf,3;8,Yusuf,Bayu,extracted
+P048,beratBarangBuktiGram,5.58,putusan_P048.pdf,3;8,Yusuf,Bayu,extracted
+P048,pasalDakwaan,Primair Pasal 114 ayat (1) jo Pasal 132 ayat (1) UU RI Nomor 35 Tahun 2009 tentang Narkotika; Subsidair Pasal 112 ayat (1) jo Pasal 132 ayat (1) UU RI Nomor 35 Tahun 2009 tentang Narkotika; Lebih Subsidair Pasal 127 ayat (1) huruf a UU RI Nomor 35 Tahun 2009 tentang Narkotika,putusan_P048.pdf,3;8,Yusuf,Bayu,extracted
+P048,pasalTerbukti,Primair Pasal 114 ayat (1) jo. Pasal 132 ayat (1) Undang-Undang No. 35 Tahun 2009 tentang Narkotika (Tanpa hak atau melawan hukum melakukan Percobaan atau permufakatan jahat membeli dan menyerahkan Narkotika Golongan I bukan tanaman).,putusan_P048.pdf,35,Yusuf,Bayu,extracted
+P048,tuntutanBulan,108,putusan_P048.pdf,3,Yusuf,Bayu,extracted
+P048,vonisBulan,84,putusan_P048.pdf,35,Yusuf,Bayu,extracted
+P048,dendaRupiah,1000000000,putusan_P048.pdf,35,Yusuf,Bayu,extracted
+P049,nomorPerkara,61/Pid.Sus/2026/PN Mnk,putusan_P049.pdf,1,Yusuf,Bayu,extracted
+P049,tanggalPutusan,2026-06-08,putusan_P049.pdf,36,Yusuf,Bayu,extracted
+P049,jenisNarkotika,sabu,putusan_P049.pdf,2;6,Yusuf,Bayu,extracted
+P049,beratBarangBuktiGram,1.73,putusan_P049.pdf,2;6,Yusuf,Bayu,extracted
+P049,pasalDakwaan,Primair Pasal 114 ayat (1) Undang-Undang Nomor 35 tahun 2009 tentang Narkotika Jo. Pasal 609 ayat (1) huruf a Undang-Undang Nomor 1 Tahun 2023 Tentang KUH Pidana Jo. Pasal 1 ayat (1) huruf a Undang-Undang Nomor 1 Tahun 2026 Tentang Penyesuaian Pidana; Subsidair Pasal 112 ayat (1) Undang-Undang Nomor 35 tahun 2009 tentang Narkotika Jo. Pasal 609 ayat (1) huruf a Undang-Undang Nomor 1 Tahun 2023 Tentang KUH Pidana Jo. Pasal 1 ayat (1) huruf a Undang-Undang Nomor 1 Tahun 2026 Tentang Penyesuaian Pidana.,putusan_P049.pdf,2;6,Yusuf,Bayu,extracted
+P049,pasalTerbukti,"ubsidair Pasal 112 ayat (1) Undang-Undang Nomor 35 tahun 2009 tentang Narkotika Jo. Pasal 609 ayat (1) huruf a Undang-Undang Nomor 1 Tahun 2023 Tentang KUH Pidana Jo. Pasal 1 ayat (1) huruf a Undang-Undang Nomor 1 Tahun 2026 Tentang Penyesuaian Pidana (Tanpa hak atau melawan hukum Memiliki, Menyimpan, Menguasai membeli, menerima, narkotika golongan I Bukan Tanaman) — dakwaan primair tidak terbukti.",putusan_P049.pdf,35,Yusuf,Bayu,extracted
+P049,tuntutanBulan,48,putusan_P049.pdf,2,Yusuf,Bayu,extracted
+P049,vonisBulan,34,putusan_P049.pdf,35,Yusuf,Bayu,extracted
+P049,dendaRupiah,800000000,putusan_P049.pdf,35,Yusuf,Bayu,extracted
+P050,nomorPerkara,192/Pid.Sus/2019/PN Mnk,putusan_P050.pdf,1,Yusuf,Bayu,extracted
+P050,tanggalPutusan,2019-12-12,putusan_P050.pdf,2,Yusuf,Bayu,extracted
+P050,jenisNarkotika,ganja,putusan_P050.pdf,1,Yusuf,Bayu,extracted
+P050,beratBarangBuktiGram,2.1,putusan_P050.pdf,1,Yusuf,Bayu,extracted
+P050,pasalDakwaan,Pasal 114 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika,putusan_P050.pdf,1,Yusuf,Bayu,extracted
+P050,pasalTerbukti,Pasal 114 ayat (1) Undang-Undang Republik Indonesia Nomor 35 Tahun 2009 tentang Narkotika (sebagaimana dakwaan kesatu Penuntut Umum),putusan_P050.pdf,1,Yusuf,Bayu,extracted
+P050,tuntutanBulan,66,putusan_P050.pdf,1,Yusuf,Bayu,extracted
+P050,vonisBulan,78,putusan_P050.pdf,1,Yusuf,Bayu,extracted
+P050,dendaRupiah,1000000000,putusan_P050.pdf,1,Yusuf,Bayu,extracted
