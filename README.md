@@ -9,7 +9,7 @@ dengan struktur data yang dibuat dari nol (tanpa koleksi bawaan `java.util`).
 | Bayu Febryan Palolongi | 202510370110154 | P001–P025 |
 | Muhammad Yusuf Jatiwibowo | 202510370110123 | P026–P050 |
 
-Mata kuliah: Struktur Data | Dosen: Galih W. Wicaksono | Semester 3, Kelas B/D
+Mata kuliah: Struktur Data | Dosen: Galih W. Wicaksono | Semester 3, Kelas B
 
 ## Struktur Data yang Dipilih
 - Struktur utama: **(isi: array dinamis / singly linked list / stack / queue)**
