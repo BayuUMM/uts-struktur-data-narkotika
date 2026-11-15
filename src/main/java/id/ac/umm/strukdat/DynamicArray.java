@@ -27,6 +27,10 @@ public class DynamicArray<T> implements StrukturData<T> {
 
     @Override
     public void add(T item) {
+        if (item == null) {
+            throw new IllegalArgumentException("Data tidak boleh null");
+        }
+
         if (size == data.length) {
             resize();
         }
@@ -36,6 +40,10 @@ public class DynamicArray<T> implements StrukturData<T> {
     }
 
     public void insert(int index, T item) {
+        if (item == null) {
+            throw new IllegalArgumentException("Data tidak boleh null");
+        }
+
         if (index < 0 || index > size) {
             throw new IndexOutOfBoundsException("Index tidak valid");
         }
@@ -61,6 +69,10 @@ public class DynamicArray<T> implements StrukturData<T> {
 
     @SuppressWarnings("unchecked")
     public T set(int index, T item) {
+        if (item == null) {
+            throw new IllegalArgumentException("Data tidak boleh null");
+        }
+
         periksaIndex(index);
 
         T nilaiLama = (T) data[index];
